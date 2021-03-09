@@ -11,5 +11,6 @@
     "url" : "https://github.com/ASAP-TECHNOLOGY/node-getopt"
   },
   "main" : "./lib",
+  "entry" : "./index.d.ts",
   "engines" : { "node": ">= 0.6.0" }
 }
