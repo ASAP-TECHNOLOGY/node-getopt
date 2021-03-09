@@ -74,6 +74,14 @@ declare class Getopt {
     public parse(argv: string[]): ParsedOption;
 
     /**
+     * parse argv
+     *
+     * Returns: {argv: '...', options: {...}}
+     *
+     */
+    public parseIgnore(argv: string[]): ParsedOption;
+
+    /**
      * alias of parse(process.argv.slice(2))
      */
     public parse_system(): ParsedOption;
