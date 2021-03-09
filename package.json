@@ -1,6 +1,6 @@
 {
   "name": "@ASAP-TECHNOLOGY/node-getopt",
-  "version": "0.3.3",
+  "version": "0.3.2-v1",
   "author" : "Jiang Miao <jiangfriend@gmail.com>",
   "description": "featured command line args parser",
   "keywords" : ["getopt", "arg", "parser"],
